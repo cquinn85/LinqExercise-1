@@ -24,8 +24,10 @@ namespace LinqExercise
             LastName = lastName;
             Age = age;
             YearsOfExperience = yearsOfExperience;
+
+            //Employee("Cruz", "Sanchez", 25, 10)); is a constructor to do above
         }
-        
+
         public Employee()
         {
             
